@@ -1,0 +1,27 @@
+.mainContainer {
+    background-color: #1b8ef9;
+    height: 100vh;
+    width: 100wh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box-shadow {
+    background-color: white;
+    /* height: 600px; */
+    border-radius: 5%;
+    box-shadow: -13px 14px 21px -5px rgba(0,0,0,0.77);
+-webkit-box-shadow: -13px 14px 21px -5px rgba(0,0,0,0.77);
+-moz-box-shadow: -13px 14px 21px -5px rgba(0,0,0,0.77);
+}
+
+.fieldContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+

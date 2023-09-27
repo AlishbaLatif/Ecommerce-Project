@@ -1,0 +1,42 @@
+.font-size {
+    font-size: 17px;
+}
+.productDetail {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    
+}
+.productDetailImages {
+    height: 500px;
+    width: 400px;
+}
+.productDetailContainer {
+    margin-top: 30px;
+    height: 550px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  
+}
+.descriptionJustify {
+    text-align: justify;
+}
+
+.btnBuyNow {
+    width: 290px !important;
+    background-color: #26abd4;
+    color: white;
+}
+.btnAddToCart {
+    width: 290px !important;
+    background-color: #d0611e;
+    color: white;
+}
+.btnProductDetailContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}

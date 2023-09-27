@@ -1,0 +1,17 @@
+.flex-main-container  {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 10px;
+  
+  }
+  .products-container {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+  
+  }
+  body {
+    width: 100%;
+  }
